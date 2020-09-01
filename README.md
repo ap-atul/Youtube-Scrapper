@@ -5,7 +5,7 @@ scraps data from channel and store in csv by default
 
 ```
 git clone https://github.com/AP-Atul/Youtube-Scrapper
-cd youtube_scrapper
+cd Youtube-Scrapper 
 pip install -r requirements.txt
 python -m youtube_scrapper -h
 ```
